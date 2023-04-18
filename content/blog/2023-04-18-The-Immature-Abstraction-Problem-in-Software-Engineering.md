@@ -5,9 +5,9 @@ author: Yoonsoo Park
 description: "The Immature Abstraction Problem"
 categories:
   - Programming
-  - Python
+  - Object-Oriented Programming
 tags:
-  - Multiple Python Versions
+  - Abstraction
 ---
 
 One of the most common and often overlooked issues is the immature abstraction problem, which occurs when code gets too cocky for its own good.
