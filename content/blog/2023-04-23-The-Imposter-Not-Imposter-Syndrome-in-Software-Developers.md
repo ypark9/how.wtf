@@ -28,7 +28,7 @@ So, how can you tell if someone is an imposter? Here are a few signs to watch ou
 
 - They make excuses: When an imposter is caught not knowing something, they may try to deflect by blaming someone else or making excuses for why they don't know something.
 
-- They are actually not doing development work: An imposter may not be doing any actual development work at all. They may be spending their time doing other things, like playing Product Manager role, or they may be doing something completely unrelated to development (e.g. writing documentation)
+- An impostor may not be engaged in actual development tasks, instead they could be occupying themselves with activities such as assuming the role of a Product Manager or carrying out tasks that are entirely unrelated to development, for instance, creating documentation.
 
 - The worst part is, they don't know they're an imposter: An imposter may not realize that they don't know what they're doing. They may think they're doing a good job, but in reality, they're just getting by.
 
@@ -42,6 +42,6 @@ I suggest two ways to deal with imposters:
 
 If you are the imposter, I hope you will take this as a wake-up call. You may be able to fake it for a while, but eventually, you will be found out. If you want to be a software developer, you need to learn how to code. If you don't know how to code, you need to learn how to code. If you don't want to learn how to code, you need to find a different job.
 
-I am taking my job very seriously, and I expect you to do the same. If you want to be a REAL software developer, EARN IT, don't fake it.
+I am taking my job very seriously, and I expect you to do the same. If you want to be a REAL software developer, you need to EARN IT, don't fake it.
 
 Cheers! 🍺
