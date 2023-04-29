@@ -1,5 +1,5 @@
 ---
-title: How to Fix "This Schedulable Class Has Jobs Pending or In Progress" Error When Pushing Code to a Scratch Org
+title: How to Fix This Schedulable Class Has Jobs Pending or In Progress Error When Pushing Code to a Scratch Org
 date: 2023-04-28T01:25:00-04:00
 author: Yoonsoo Park
 description: "How to Fix "This Schedulable Class Has Jobs Pending or In Progress" Error When Pushing Code to a Scratch Org"
@@ -9,6 +9,7 @@ categories:
 tags:
   - Error
 ---
+
 When working with Salesforce, you may encounter an error message that says "This schedulable class has jobs pending or in progress" when trying to push code to a Scratch Org. This error message can be frustrating and may cause delays in your development process.
 
 ## The Solution
