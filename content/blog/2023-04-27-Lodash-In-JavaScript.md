@@ -1,6 +1,6 @@
 ---
 title: Level Up Your JavaScript Skills with Lodash
-date: 2023-13-24T01:25:00-04:00
+date: 2023-04-27T01:25:00-04:00
 author: Yoonsoo Park
 description: "Lodash is a powerful utility library"
 categories:
